@@ -3,10 +3,12 @@
      Backend Engineer · DevOps Engineer · Django / AWS / Docker
 ========================================================= -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0D1117&height=200&section=header&text=Md%20Fahad%20Mir&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20DevOps%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner" />
+
 <div align="center">
 
 <a href="https://linkedin.com/in/md-fahad-mir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Fahad+Mir+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+Engineer;I+design+APIs+and+ship+them+to+production;Python+%C2%B7+Django+%C2%B7+DRF+%C2%B7+AWS+%C2%B7+Docker" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+DevOps+Engineer;I+design+APIs+and+ship+them+to+production;Python+%C2%B7+Django+%C2%B7+DRF+%C2%B7+AWS+%C2%B7+Docker;Scalable+systems%2C+owned+end-to-end." alt="typing banner" />
 </a>
 
 <br/>
@@ -22,19 +24,19 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### I build backend systems that survive production — and own the pipelines that ship them.
+### 🚀 I build backend systems that survive production — and own the pipelines that ship them.
 
-`Scalable REST APIs` &nbsp;·&nbsp; `Cloud Infrastructure` &nbsp;·&nbsp; `CI/CD Automation` &nbsp;·&nbsp; `System Design`
+`Scalable REST APIs` &nbsp;•&nbsp; `Cloud Infrastructure` &nbsp;•&nbsp; `CI/CD Automation` &nbsp;•&nbsp; `System Design`
 
 **🟢 Open to Backend / DevOps / Cloud Engineer roles — remote & on-site**
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -55,9 +57,13 @@ focus:    Scalable APIs · CI/CD · Cloud Infrastructure
 mindset:  Ship production systems. Own them end-to-end.
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 
@@ -80,6 +86,9 @@ mindset:  Ship production systems. Own them end-to-end.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 **DevOps & Cloud**
 
@@ -105,7 +114,11 @@ mindset:  Ship production systems. Own them end-to-end.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
----
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 🚀 Featured Projects
 
@@ -125,7 +138,7 @@ Owned DevOps end-to-end for a multi-service production platform — automated CI
 </td>
 <td width="50%" valign="top">
 
-### 🟢 [HairIQ](https://fahad1000.pythonanywhere.com/)
+### 🟢 [HairIQ](https://github.com/Md-Fahad-Mir/HairIQ)
 **Two-Sided Marketplace API**
 
 Django REST API powering a marketplace for hair professionals — dual-role accounts, JWT auth, OTP verification, and AI-driven recommendations.
@@ -164,7 +177,7 @@ Backend for a productivity platform built on Django 6 + DRF, with AI-driven dail
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 🧱 Engineering Highlights
 
@@ -178,30 +191,29 @@ Backend for a productivity platform built on Django 6 + DRF, with AI-driven dail
 - **Database Engineering** — PostgreSQL query optimization, indexing strategy, and ORM-level tuning.
 - **Real-Time Systems** — WebSocket layers for live scoring and notifications.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Fahad-Mir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=C9D2DC" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Fahad-Mir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=C9D2DC&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Fahad-Mir&theme=tokyonight" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Fahad-Mir&theme=tokyonight" alt="repos per language" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Md-Fahad-Mir&theme=tokyonight&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="170" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Fahad-Mir&theme=tokyonight" alt="most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Fahad-Mir&theme=tokyonight&utcOffset=6" alt="productive time" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Fahad-Mir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A66C2&line=0A66C2&point=C9D2DC&area=true" width="95%" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Md-Fahad-Mir&theme=tokyonight&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Fahad-Mir&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Fahad-Mir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A66C2&line=0A66C2&point=C9D2DC&area=true" alt="activity graph" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0D1117&height=2" alt="divider" />
 
 ## 🤝 Let's Connect
 
@@ -213,8 +225,6 @@ I'm open to **Backend Engineer**, **DevOps Engineer**, and **Cloud Engineer** ro
 <a href="mailto:fahad1000mir@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://fahadosd.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<br/><br/>
-
-<sub><i>"Ship production systems. Own them end-to-end."</i></sub>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=120&section=footer&text=Ship%20production%20systems.%20Own%20them%20end-to-end.&fontColor=ffffff&fontSize=16&fontAlignY=70&animation=fadeIn" alt="footer banner" />
