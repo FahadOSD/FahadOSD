@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/md-fahad-mir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Md+Fahad+Mir+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+Engineer;Python+%C2%B7+Django+%C2%B7+DRF+%C2%B7+AWS+%C2%B7+Docker;Building+scalable%2C+production-grade+APIs." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Fahad+Mir+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+Engineer;I+design+APIs+and+ship+them+to+production;Python+%C2%B7+Django+%C2%B7+DRF+%C2%B7+AWS+%C2%B7+Docker" alt="typing banner" />
 </a>
 
 <br/>
@@ -24,49 +24,65 @@
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a **Backend & DevOps Engineer** based in Dhaka, Bangladesh, focused on designing and shipping **scalable RESTful APIs**, **cloud-native services**, and **production-grade CI/CD pipelines**.
+### I build backend systems that survive production — and own the pipelines that ship them.
 
-- Building APIs with **Python, Django & Django REST Framework**
-- Owning infrastructure with **Docker, AWS EC2, Terraform, Ansible & GitHub Actions**
-- Architecting **microservices**, **JWT/OAuth auth flows**, and **PostgreSQL** data layers
-- Passionate about clean code, system design, and engineering ownership
-- Open to **Backend / DevOps / Cloud Engineer** opportunities — remote & on-site
+`Scalable REST APIs` &nbsp;·&nbsp; `Cloud Infrastructure` &nbsp;·&nbsp; `CI/CD Automation` &nbsp;·&nbsp; `System Design`
+
+**🟢 Open to Backend / DevOps / Cloud Engineer roles — remote & on-site**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Backend & DevOps Engineer** based in **Dhaka, Bangladesh**. I design RESTful APIs, automate their deployment, and own the infrastructure they run on — from the first commit to the production release.
+
+- 🧩 I build APIs with **Python · Django · Django REST Framework**
+- ⚙️ I automate delivery with **Docker · GitHub Actions · Terraform · Ansible**
+- ☁️ I run services on **AWS EC2** behind **Nginx** with hardened **SSL/TLS**
+- 🔐 I implement **JWT / OAuth** auth, **RBAC**, and modeled **PostgreSQL** data layers
+- 🎯 I care about clean code, system design, and end-to-end ownership
 
 ```yaml
-name:       Md Fahad Mir
-role:       Backend Engineer · DevOps Engineer
-location:   Dhaka, Bangladesh
-stack:      Python · Django · DRF · PostgreSQL · Docker · AWS
-focus:      Scalable APIs · CI/CD · Cloud Infrastructure
-mindset:    Ship production-grade systems, own them end-to-end.
+name:     Md Fahad Mir
+role:     Backend Engineer · DevOps Engineer
+location: Dhaka, Bangladesh
+stack:    Python · Django · DRF · PostgreSQL · Docker · AWS
+focus:    Scalable APIs · CI/CD · Cloud Infrastructure
+mindset:  Ship production systems. Own them end-to-end.
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-#### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-#### Backend & APIs
+**Backend & APIs**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-#### Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### DevOps & Cloud
+**DevOps & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -75,12 +91,14 @@ mindset:    Ship production-grade systems, own them end-to-end.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### Auth & Security
+**Auth & Security**
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3B5998?style=flat-square&logo=oauth&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-2E8B57?style=flat-square&logo=letsencrypt&logoColor=white)
 
-#### Tools & Workflow
+**Tools & Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -89,58 +107,58 @@ mindset:    Ship production-grade systems, own them end-to-end.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Quranity](https://quranity.app/)
+### 🟢 [Quranity](https://quranity.app/)
 **Production DevOps Platform**
 
-End-to-end DevOps ownership of a multi-service production platform. Automated **CI/CD pipelines**, infrastructure provisioning, and zero-downtime deployments.
+Owned DevOps end-to-end for a multi-service production platform — automated CI/CD, infrastructure-as-code provisioning, and zero-downtime releases.
 
-`Docker` `Compose` `GitHub Actions` `AWS EC2` `Terraform` `Ansible` `Nginx` `SSL/TLS`
+`Docker` `GitHub Actions` `AWS EC2` `Terraform` `Ansible` `Nginx`
 
-> Scalable, highly available production releases with reverse-proxy hardening and automated DB migrations.
+> ⚡ Cut deploys to a single push with automated DB migrations and reverse-proxy hardening.
 
 </td>
 <td width="50%" valign="top">
 
-### [HairIQ](https://fahad1000.pythonanywhere.com/)
+### 🟢 [HairIQ](https://fahad1000.pythonanywhere.com/)
 **Two-Sided Marketplace API**
 
-Production **Django REST API** powering a marketplace for hair professionals across **9+ microservices** with JWT auth, OTP verification, and AI recommendations.
+Django REST API powering a marketplace for hair professionals — dual-role accounts, JWT auth, OTP verification, and AI-driven recommendations.
 
-`Django` `DRF` `PostgreSQL` `JWT` `Swagger` `AI`
+`Django` `DRF` `PostgreSQL` `JWT` `Swagger`
 
-> Dual-role system, real-time booking, subscriptions, RBAC, and full OpenAPI documentation.
+> 🧩 9+ service modules with real-time booking, subscriptions, RBAC, and full OpenAPI docs.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Mon5Majeur](https://github.com/Md-Fahad-Mir/Mon-5-Majeur)
+### 🏀 [Mon5Majeur](https://github.com/Md-Fahad-Mir/Mon-5-Majeur)
 **NBA Fantasy Basketball Platform**
 
-Scalable fantasy sports platform with team creation, league management, and **real-time live score tracking** via WebSockets.
+Fantasy sports platform with team creation, league management, and live score tracking over WebSockets.
 
 `Django` `DRF` `WebSockets` `Docker` `AWS EC2`
 
-> Containerized microservices deployed on AWS with low-latency real-time updates.
+> 📡 Containerized services on AWS delivering low-latency real-time updates.
 
 </td>
 <td width="50%" valign="top">
 
-### [Nowlii](https://github.com/Md-Fahad-Mir/Nowlii)
+### ✅ [Nowlii](https://github.com/Md-Fahad-Mir/Nowlii)
 **Productivity & Wellness Backend**
 
-Backend for a modern productivity platform powered by **Django 6, DRF**, and AI-driven features for daily quests, profiles, and subscriptions.
+Backend for a productivity platform built on Django 6 + DRF, with AI-driven daily quests, profiles, and subscriptions.
 
-`Django` `DRF` `PostgreSQL` `AI` `JWT`
+`Django` `DRF` `PostgreSQL` `JWT`
 
-> Secure authentication, subscription billing, and modular service architecture.
+> 🔐 Secure auth, subscription billing, and a modular service architecture.
 
 </td>
 </tr>
@@ -148,21 +166,21 @@ Backend for a modern productivity platform powered by **Django 6, DRF**, and AI-
 
 ---
 
-## Engineering Highlights
+## 🧱 Engineering Highlights
 
 > Production work I've owned end-to-end:
 
-- **CI/CD Automation** — Built GitHub Actions pipelines for automated testing, building, and zero-downtime deployments.
-- **Cloud Infrastructure** — Provisioned and managed **AWS EC2** instances with **Terraform** & **Ansible** (Infrastructure as Code).
-- **Containerization** — Designed multi-service **Docker Compose** stacks; optimized image size and startup time.
-- **Reverse Proxy & SSL** — Configured **Nginx** with **Let's Encrypt SSL/TLS**, HTTP/2, and security headers.
-- **API Architecture** — Designed **RESTful APIs** across **9+ microservices** with JWT/OAuth, RBAC, and OpenAPI docs.
-- **Database Engineering** — Optimized **PostgreSQL** queries, indexing strategies, and ORM-level performance tuning.
-- **Real-Time Systems** — Implemented **WebSocket** layers for live scoring and notifications.
+- **CI/CD Automation** — GitHub Actions pipelines for automated testing, builds, and zero-downtime deployments.
+- **Cloud Infrastructure** — AWS EC2 provisioned and managed with **Terraform** & **Ansible** (Infrastructure as Code).
+- **Containerization** — Multi-service **Docker Compose** stacks with optimized image size and startup time.
+- **Reverse Proxy & SSL** — **Nginx** with **Let's Encrypt SSL/TLS**, HTTP/2, and security headers.
+- **API Architecture** — RESTful APIs across modular services with JWT/OAuth, RBAC, and OpenAPI docs.
+- **Database Engineering** — PostgreSQL query optimization, indexing strategy, and ORM-level tuning.
+- **Real-Time Systems** — WebSocket layers for live scoring and notifications.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -175,17 +193,21 @@ Backend for a modern productivity platform powered by **Django 6, DRF**, and AI-
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Fahad-Mir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Fahad-Mir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A66C2&line=0A66C2&point=C9D2DC&area=true" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Md-Fahad-Mir&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
 
 </div>
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm open to **Backend Engineer**, **DevOps Engineer**, and **Cloud Engineer** opportunities — full-time, contract, or remote.
+I'm open to **Backend Engineer**, **DevOps Engineer**, and **Cloud Engineer** roles — full-time, contract, or remote.
 
 <a href="https://linkedin.com/in/md-fahad-mir"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:fahad1000mir@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -193,6 +215,6 @@ I'm open to **Backend Engineer**, **DevOps Engineer**, and **Cloud Engineer** op
 
 <br/><br/>
 
-<sub><i>"Ship production-grade systems. Own them end-to-end."</i></sub>
+<sub><i>"Ship production systems. Own them end-to-end."</i></sub>
 
 </div>
